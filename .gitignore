@@ -32,4 +32,4 @@ node_modules
 *.sublime-workspace
 
 # generated output
-lib/
+# lib/
