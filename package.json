@@ -9,6 +9,7 @@
   "files": [
     "lib",
     "config",
+    "resolvers",
     "memo-parser"
   ],
   "scripts": {
